@@ -1,3 +1,15 @@
 .env
+
 __pycache__/
 *.pyc
+
+venv/
+env/
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+
+.streamlit/
