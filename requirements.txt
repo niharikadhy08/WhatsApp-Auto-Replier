@@ -1,0 +1,10 @@
+# openai
+# pyautogui
+# pyperclip
+# python-dotenv
+
+streamlit
+openai
+pyautogui
+pyperclip
+python-dotenv
