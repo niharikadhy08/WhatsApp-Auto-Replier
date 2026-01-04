@@ -41,7 +41,7 @@ This project uses **screen automation** instead of official WhatsApp APIs and wo
 
 ---
 
-## ⚙️ How It Works (Simple Explanation)
+## ⚙️ How It Works 
 
 1. You open **WhatsApp Web** in your browser  
 2. The bot:
@@ -55,10 +55,6 @@ This project uses **screen automation** instead of official WhatsApp APIs and wo
 4. You control everything using **Start / Stop buttons** in Streamlit
 
 ---
-
-6️⃣ Run the App
-streamlit run app.py
-
-
-Click Start Bot ▶️ to begin auto replying
-Click Stop Bot ⏹ anytime to stop
+▶️Run the App - streamlit run app.py
+Click Start Bot - to begin auto replying
+Click Stop Bot - anytime to stop
