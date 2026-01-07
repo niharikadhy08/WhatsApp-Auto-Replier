@@ -1,4 +1,4 @@
-# 🤖 WhatsApp Auto Replier (AI-Powered)
+# WhatsApp Auto Replier (AI-Powered)
 
 A Python-based WhatsApp Auto Reply Bot that reads incoming messages from **WhatsApp Web** and automatically replies using an **AI language model**.  
 The bot is controlled through a **Streamlit UI** with Start/Stop buttons.
@@ -7,18 +7,18 @@ This project uses **screen automation** instead of official WhatsApp APIs and wo
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ Auto-replies to incoming WhatsApp messages
-- 🧠 AI-generated replies using **LLaMA (Groq API)**
-- 🎛 Control bot using a **Streamlit dashboard**
-- 🧍 Detects whether the last message was sent by you or the other person
-- 💬 Human-like, casual, friendly replies
-- 🛑 Start / Stop bot anytime
+-  Auto-replies to incoming WhatsApp messages
+-  AI-generated replies using **LLaMA (Groq API)**
+-  Control bot using a **Streamlit dashboard**
+-  Detects whether the last message was sent by you or the other person
+-  Human-like, casual, friendly replies
+-  Start / Stop bot anytime
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Python**
 - **Streamlit** – UI control panel
@@ -29,7 +29,7 @@ This project uses **screen automation** instead of official WhatsApp APIs and wo
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ├── app.py # Streamlit UI to control the bot
 ├── bot.py # Core WhatsApp automation + AI logic
 ├── auto_reply.py # AI test file (optional / experimental)
@@ -41,7 +41,7 @@ This project uses **screen automation** instead of official WhatsApp APIs and wo
 
 ---
 
-## ⚙️ How It Works 
+##  How It Works 
 
 1. You open **WhatsApp Web** in your browser  
 2. The bot:
@@ -55,6 +55,6 @@ This project uses **screen automation** instead of official WhatsApp APIs and wo
 4. You control everything using **Start / Stop buttons** in Streamlit
 
 ---
-▶️Run the App - streamlit run app.py
+Run the App - streamlit run app.py
 Click Start Bot - to begin auto replying
 Click Stop Bot - anytime to stop
